@@ -4,7 +4,7 @@
 //  Created by Roman Cernetchi
 //  Created on 2021-12-09
 //  Version 1.0
-//  Copyright (c) 2021 Ryan Chung. All rights reserved.
+//  Copyright (c) 2021 Roman Cernetchi. All rights reserved.
 //
 //  This program demonstrates a stack.
 //
